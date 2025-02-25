@@ -1,7 +1,7 @@
 <?php
 /*
 Plugin Name: WooQ EMI
-Plugin URI: https://sakibsti.me/
+Plugin URI: https://github.com/sakibstime/wooq-emi
 Description: Displays EMI plans on WooCommerce product pages via a shortcode, calculated based on the product's Regular Price. EMI plans are shown for 3, 6, 9, and 12 months.
 Version: 2.2
 Author: Md. Sohanur Rahman Sakib
